@@ -9,11 +9,8 @@
 ![Vuejs](https://img.shields.io/badge/-vue-4FC08D?style=for-the-badge&logo=vue&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
-![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
 ---
