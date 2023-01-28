@@ -1,4 +1,4 @@
-## 👻 Tae Young, Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkty0529%2Fhit-counter&count_bg=%23AA78DA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👻 Tae Young, Kim
 
 ![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
