@@ -14,7 +14,7 @@
 ### 🏫
 
 1. [**Flexible Study**](https://github.com/flexible-study)
-2. [**만들면서 배우는 실전 퍼블리싱 강의**](https://school.programmers.co.kr/learn/courses/14761)
+2. ~[**만들면서 배우는 실전 퍼블리싱 강의**](https://school.programmers.co.kr/learn/courses/14761)~ closed 😞
 
 ---
 
