@@ -15,10 +15,3 @@
 
 1. [**Flexible Study**](https://github.com/flexible-study)
 2. ~[**만들면서 배우는 실전 퍼블리싱 강의**](https://school.programmers.co.kr/learn/courses/14761)~ closed 😞
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kty0529)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
