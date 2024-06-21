@@ -8,10 +8,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-
----
-
-### 🏫
-
-1. [**Flexible Study**](https://github.com/flexible-study)
-2. ~[**만들면서 배우는 실전 퍼블리싱 강의**](https://school.programmers.co.kr/learn/courses/14761)~ closed 😞
