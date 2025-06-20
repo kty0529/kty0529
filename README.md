@@ -14,3 +14,6 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=fff)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-ffffff?style=for-the-badge&logo=cloudflare&logoColor=F38020)
